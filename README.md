@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/anush126/LeetCodeSubmissions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anush126/LeetCodeSubmissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/anush126/LeetCodeSubmissions/tree/master/3895-count-digit-appearances) |
+## Hash Table
+|  |
+| ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/anush126/LeetCodeSubmissions/tree/master/3760-maximum-substrings-with-distinct-start) |
+## String
+|  |
+| ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/anush126/LeetCodeSubmissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
