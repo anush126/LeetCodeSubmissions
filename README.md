@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/anush126/LeetCodeSubmissions/tree/main/0231-power-of-two/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/anush126/LeetCodeSubmissions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anush126/LeetCodeSubmissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/anush126/LeetCodeSubmissions/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/anush126/LeetCodeSubmissions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
