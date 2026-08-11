@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anush126/LeetCodeSubmissions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0496-next-greater-element-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anush126/LeetCodeSubmissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anush126/LeetCodeSubmissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/anush126/LeetCodeSubmissions/tree/master/3895-count-digit-appearances) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/anush126/LeetCodeSubmissions/tree/main/0013-roman-to-integer/) | Easy |
+| [0496-next-greater-element-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anush126/LeetCodeSubmissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/anush126/LeetCodeSubmissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anush126/LeetCodeSubmissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0496-next-greater-element-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anush126/LeetCodeSubmissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
