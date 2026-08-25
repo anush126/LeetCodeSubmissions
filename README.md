@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anush126/LeetCodeSubmissions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/anush126/LeetCodeSubmissions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/anush126/LeetCodeSubmissions/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/anush126/LeetCodeSubmissions/tree/main/0048-rotate-image/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anush126/LeetCodeSubmissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anush126/LeetCodeSubmissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/anush126/LeetCodeSubmissions/tree/main/0136-single-number/) | Easy |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/anush126/LeetCodeSubmissions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/anush126/LeetCodeSubmissions/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/anush126/LeetCodeSubmissions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/anush126/LeetCodeSubmissions/tree/main/0231-power-of-two/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/anush126/LeetCodeSubmissions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -149,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/anush126/LeetCodeSubmissions/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/anush126/LeetCodeSubmissions/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
