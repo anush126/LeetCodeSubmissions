@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anush126/LeetCodeSubmissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anush126/LeetCodeSubmissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anush126/LeetCodeSubmissions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anush126/LeetCodeSubmissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anush126/LeetCodeSubmissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anush126/LeetCodeSubmissions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/anush126/LeetCodeSubmissions/tree/main/0231-power-of-two/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anush126/LeetCodeSubmissions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/anush126/LeetCodeSubmissions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/anush126/LeetCodeSubmissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
