@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0941-valid-mountain-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/anush126/LeetCodeSubmissions/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/anush126/LeetCodeSubmissions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anush126/LeetCodeSubmissions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anush126/LeetCodeSubmissions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anush126/LeetCodeSubmissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anush126/LeetCodeSubmissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/anush126/LeetCodeSubmissions/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anush126/LeetCodeSubmissions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anush126/LeetCodeSubmissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Monotonic Stack
@@ -175,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/anush126/LeetCodeSubmissions/tree/main/0070-climbing-stairs/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/anush126/LeetCodeSubmissions/tree/main/1051-height-checker/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/anush126/LeetCodeSubmissions/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
