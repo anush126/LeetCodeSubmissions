@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/anush126/LeetCodeSubmissions/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/anush126/LeetCodeSubmissions/tree/main/0724-find-pivot-index/) | Easy |
 | [0941-valid-mountain-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/anush126/LeetCodeSubmissions/tree/main/1051-height-checker/) | Easy |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/anush126/LeetCodeSubmissions/tree/main/1051-height-checker/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/anush126/LeetCodeSubmissions/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
