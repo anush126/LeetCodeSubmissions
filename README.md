@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/anush126/LeetCodeSubmissions/tree/main/0724-find-pivot-index/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/anush126/LeetCodeSubmissions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0941-valid-mountain-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/anush126/LeetCodeSubmissions/tree/main/1051-height-checker/) | Easy |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anush126/LeetCodeSubmissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anush126/LeetCodeSubmissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/anush126/LeetCodeSubmissions/tree/main/0414-third-maximum-number/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/anush126/LeetCodeSubmissions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/anush126/LeetCodeSubmissions/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anush126/LeetCodeSubmissions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
