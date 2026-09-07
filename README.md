@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anush126/LeetCodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anush126/LeetCodeSubmissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anush126/LeetCodeSubmissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anush126/LeetCodeSubmissions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anush126/LeetCodeSubmissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/anush126/LeetCodeSubmissions/tree/main/0058-length-of-last-word/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/anush126/LeetCodeSubmissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 | Problem Name | Difficulty |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1051-height-checker](https://github.com/anush126/LeetCodeSubmissions/tree/main/1051-height-checker/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/anush126/LeetCodeSubmissions/tree/main/0724-find-pivot-index/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
