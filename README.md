@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anush126/LeetCodeSubmissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/anush126/LeetCodeSubmissions/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/anush126/LeetCodeSubmissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/anush126/LeetCodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anush126/LeetCodeSubmissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anush126/LeetCodeSubmissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anush126/LeetCodeSubmissions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/anush126/LeetCodeSubmissions/tree/main/0035-search-insert-position/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/anush126/LeetCodeSubmissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/anush126/LeetCodeSubmissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anush126/LeetCodeSubmissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anush126/LeetCodeSubmissions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -205,9 +207,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anush126/LeetCodeSubmissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0724-find-pivot-index](https://github.com/anush126/LeetCodeSubmissions/tree/main/0724-find-pivot-index/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anush126/LeetCodeSubmissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
