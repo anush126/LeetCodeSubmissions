@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/anush126/LeetCodeSubmissions/tree/main/0058-length-of-last-word/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/anush126/LeetCodeSubmissions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/anush126/LeetCodeSubmissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/anush126/LeetCodeSubmissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/anush126/LeetCodeSubmissions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anush126/LeetCodeSubmissions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/anush126/LeetCodeSubmissions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
