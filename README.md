@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/anush126/LeetCodeSubmissions/tree/main/0058-length-of-last-word/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0844-backspace-string-compare](https://github.com/anush126/LeetCodeSubmissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anush126/LeetCodeSubmissions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/anush126/LeetCodeSubmissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/anush126/LeetCodeSubmissions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anush126/LeetCodeSubmissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0844-backspace-string-compare](https://github.com/anush126/LeetCodeSubmissions/tree/main/0844-backspace-string-compare/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0189-rotate-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/anush126/LeetCodeSubmissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anush126/LeetCodeSubmissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/anush126/LeetCodeSubmissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/anush126/LeetCodeSubmissions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anush126/LeetCodeSubmissions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/anush126/LeetCodeSubmissions/tree/main/0054-spiral-matrix/) | Medium |
+| [0844-backspace-string-compare](https://github.com/anush126/LeetCodeSubmissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
