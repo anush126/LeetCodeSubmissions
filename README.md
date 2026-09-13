@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anush126/LeetCodeSubmissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/anush126/LeetCodeSubmissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0217-contains-duplicate](https://github.com/anush126/LeetCodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/anush126/LeetCodeSubmissions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anush126/LeetCodeSubmissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anush126/LeetCodeSubmissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anush126/LeetCodeSubmissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/anush126/LeetCodeSubmissions/tree/main/0058-length-of-last-word/) | Easy |
+| [0242-valid-anagram](https://github.com/anush126/LeetCodeSubmissions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/anush126/LeetCodeSubmissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anush126/LeetCodeSubmissions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/anush126/LeetCodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/anush126/LeetCodeSubmissions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anush126/LeetCodeSubmissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anush126/LeetCodeSubmissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/anush126/LeetCodeSubmissions/tree/main/0414-third-maximum-number/) | Easy |
