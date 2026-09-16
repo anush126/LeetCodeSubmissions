@@ -50,7 +50,6 @@ class Solution {
                 }
             }
 
-
             ans = ans * 10 + d;
             i++;
         }
