@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anush126/LeetCodeSubmissions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anush126/LeetCodeSubmissions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anush126/LeetCodeSubmissions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/anush126/LeetCodeSubmissions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/anush126/LeetCodeSubmissions/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anush126/LeetCodeSubmissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anush126/LeetCodeSubmissions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/anush126/LeetCodeSubmissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/anush126/LeetCodeSubmissions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anush126/LeetCodeSubmissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anush126/LeetCodeSubmissions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/anush126/LeetCodeSubmissions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/anush126/LeetCodeSubmissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anush126/LeetCodeSubmissions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/anush126/LeetCodeSubmissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/anush126/LeetCodeSubmissions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/anush126/LeetCodeSubmissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 | Problem Name | Difficulty |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anush126/LeetCodeSubmissions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/anush126/LeetCodeSubmissions/tree/main/0231-power-of-two/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/anush126/LeetCodeSubmissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/anush126/LeetCodeSubmissions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anush126/LeetCodeSubmissions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/anush126/LeetCodeSubmissions/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/anush126/LeetCodeSubmissions/tree/main/1051-height-checker/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/anush126/LeetCodeSubmissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/anush126/LeetCodeSubmissions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
