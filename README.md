@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anush126/LeetCodeSubmissions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/anush126/LeetCodeSubmissions/tree/main/0844-backspace-string-compare/) | Easy |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anush126/LeetCodeSubmissions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/anush126/LeetCodeSubmissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/anush126/LeetCodeSubmissions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
