@@ -1,16 +1,19 @@
 class Solution {
     public boolean validMountainArray(int[] arr) {
         int i = 0;
-        while(i + 1 < arr.length && arr[i] < arr[i + 1])
-        i++;
+        int n = arr.length;
 
-        if(i == 0 || i == arr.length - 1)
-        return false;
+        while(i < n - 1 && arr[i] < arr[i + 1]){
+            i++;
+        }
 
-        while(i + 1 < arr.length && arr[i] > arr[i + 1])
-        i++;
+        if(i == 0 || i == n - 1){
+            return false;
+        }
+        while(i < n - 1 && arr[i] > arr[i + 1]){
+            i++;
+        }
 
-        System.out.print(i);
-        return i == arr.length - 1;
+        return i == n - 1;
     }
 }
