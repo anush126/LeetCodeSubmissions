@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/anush126/LeetCodeSubmissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/anush126/LeetCodeSubmissions/tree/main/0231-power-of-two/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -260,5 +261,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anush126/LeetCodeSubmissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/anush126/LeetCodeSubmissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/anush126/LeetCodeSubmissions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
