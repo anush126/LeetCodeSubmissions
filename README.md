@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anush126/LeetCodeSubmissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -258,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anush126/LeetCodeSubmissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/anush126/LeetCodeSubmissions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
