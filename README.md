@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anush126/LeetCodeSubmissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/anush126/LeetCodeSubmissions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/anush126/LeetCodeSubmissions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/anush126/LeetCodeSubmissions/tree/main/0013-roman-to-integer/) | Easy |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anush126/LeetCodeSubmissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/anush126/LeetCodeSubmissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/anush126/LeetCodeSubmissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/anush126/LeetCodeSubmissions/tree/main/0231-power-of-two/) | Easy |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anush126/LeetCodeSubmissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anush126/LeetCodeSubmissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/anush126/LeetCodeSubmissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/anush126/LeetCodeSubmissions/tree/main/0141-linked-list-cycle/) | Easy |
