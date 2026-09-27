@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anush126/LeetCodeSubmissions/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/anush126/LeetCodeSubmissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/anush126/LeetCodeSubmissions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/anush126/LeetCodeSubmissions/tree/main/0231-power-of-two/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anush126/LeetCodeSubmissions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/anush126/LeetCodeSubmissions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anush126/LeetCodeSubmissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/anush126/LeetCodeSubmissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/anush126/LeetCodeSubmissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/anush126/LeetCodeSubmissions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/anush126/LeetCodeSubmissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/anush126/LeetCodeSubmissions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anush126/LeetCodeSubmissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/anush126/LeetCodeSubmissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/anush126/LeetCodeSubmissions/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anush126/LeetCodeSubmissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anush126/LeetCodeSubmissions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anush126/LeetCodeSubmissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/anush126/LeetCodeSubmissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/anush126/LeetCodeSubmissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/anush126/LeetCodeSubmissions/tree/main/0202-happy-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
