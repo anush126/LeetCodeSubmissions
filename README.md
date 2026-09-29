@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/anush126/LeetCodeSubmissions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0561-array-partition](https://github.com/anush126/LeetCodeSubmissions/tree/main/0561-array-partition/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/anush126/LeetCodeSubmissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0724-find-pivot-index](https://github.com/anush126/LeetCodeSubmissions/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anush126/LeetCodeSubmissions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0941-valid-mountain-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0941-valid-mountain-array/) | Easy |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anush126/LeetCodeSubmissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/anush126/LeetCodeSubmissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anush126/LeetCodeSubmissions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/anush126/LeetCodeSubmissions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/anush126/LeetCodeSubmissions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/anush126/LeetCodeSubmissions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/anush126/LeetCodeSubmissions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0844-backspace-string-compare](https://github.com/anush126/LeetCodeSubmissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anush126/LeetCodeSubmissions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anush126/LeetCodeSubmissions/tree/main/1768-merge-strings-alternately/) | Easy |
