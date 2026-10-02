@@ -1,23 +1,22 @@
 class Solution {
     public long findTheArrayConcVal(int[] nums) {
-        int f = 0;
-        int l = nums.length - 1;
-        long ans = 0;
+        long res = 0;
+        int l = 0,
+            r = nums.length - 1;
+        while(l < r){
 
-        while(f <= l){
-            String a = Integer.toString(nums[f]);
-            String b = Integer.toString(nums[l]);
-            String c = "";
-            if(f == l){
-                c = a;
-            }else{
-                c = a + b;
-            }
-            ans += Integer.parseInt(c);
-            f++;
-            l--;
+            String first = Integer.toString(nums[l]);
+            String last = String.valueOf(nums[r]);
+            String comb = first + last;
+            res += Integer.parseInt(comb);
+
+            l++;
+            r--;
         }
-        return ans;
-        
+        if (l == r) {
+            res += nums[l];
+        }
+
+        return res;
     }
 }
