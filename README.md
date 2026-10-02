@@ -307,5 +307,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/anush126/LeetCodeSubmissions/tree/main/0178-rank-scores/) | Medium |
+| [0511-game-play-analysis-i](https://github.com/anush126/LeetCodeSubmissions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0595-big-countries](https://github.com/anush126/LeetCodeSubmissions/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
